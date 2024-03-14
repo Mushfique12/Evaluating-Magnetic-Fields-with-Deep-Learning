@@ -4,4 +4,4 @@ This repo contains some of the work performed at [CompEM lab](https://www.compem
 
 Work presented here was used in the following publication:
 
-- Physics Informed Neural Networks for Electromagnetic Analysis - [Link to paper](https://ieeexplore.ieee.org/abstract/document/9740189)
+- Evaluating magnetic fields using deep learning - [Link to paper]([https://ieeexplore.ieee.org/abstract/document/9740189](https://www.emerald.com/insight/content/doi/10.1108/COMPEL-12-2022-0436/full/html?skipTracking=true)https://www.emerald.com/insight/content/doi/10.1108/COMPEL-12-2022-0436/full/html?skipTracking=true)
